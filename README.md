@@ -23,3 +23,9 @@ The user can:
   * Add new exercises to a new workout plan.
 
   * View the combined weight of multiple exercises on the `stats` page.
+  
+  ## Screenshots
+  ![Screenshot (105)](https://user-images.githubusercontent.com/54878075/96548129-8a3cb600-126a-11eb-861a-a839e680ae4f.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/54878075/96548201-a80a1b00-126a-11eb-8cee-e503af2b0c30.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/54878075/96548252-c40dbc80-126a-11eb-82ff-abeb43a169ab.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/54878075/96548329-e6073f00-126a-11eb-9403-372260d81d43.png)
