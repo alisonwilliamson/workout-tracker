@@ -1,5 +1,5 @@
 # workout-tracker
-An app that uses a Mongo database with a Mongoose schema and handle routes with Express.
+An app that uses a Mongo database with a Mongoose schema and handle routes with Express. Here is the link to the deployed application: https://thawing-reef-30997.herokuapp.com/
 
 ## Installation
 To run on localhost:3000 run npm i to install dependencies and then open your terminal and run node server.js. 
